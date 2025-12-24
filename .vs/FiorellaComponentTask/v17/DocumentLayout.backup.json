@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\FakhriB\\source\\repos\\FiorellaComponentTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFEDEE56-D799-4F1B-AC8E-5BE9E53D8EA7}|FiorellaComponentTask\\FiorellaComponentTask.csproj|c:\\users\\fakhrib\\source\\repos\\fiorellacomponenttask\\fiorellacomponenttask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFEDEE56-D799-4F1B-AC8E-5BE9E53D8EA7}|FiorellaComponentTask\\FiorellaComponentTask.csproj|solutionrelative:fiorellacomponenttask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEDEE56-D799-4F1B-AC8E-5BE9E53D8EA7}|FiorellaComponentTask\\FiorellaComponentTask.csproj|c:\\users\\fakhrib\\source\\repos\\fiorellacomponenttask\\fiorellacomponenttask\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFEDEE56-D799-4F1B-AC8E-5BE9E53D8EA7}|FiorellaComponentTask\\FiorellaComponentTask.csproj|solutionrelative:fiorellacomponenttask\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFEDEE56-D799-4F1B-AC8E-5BE9E53D8EA7}|FiorellaComponentTask\\FiorellaComponentTask.csproj|c:\\users\\fakhrib\\source\\repos\\fiorellacomponenttask\\fiorellacomponenttask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BFEDEE56-D799-4F1B-AC8E-5BE9E53D8EA7}|FiorellaComponentTask\\FiorellaComponentTask.csproj|solutionrelative:fiorellacomponenttask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEDEE56-D799-4F1B-AC8E-5BE9E53D8EA7}|FiorellaComponentTask\\FiorellaComponentTask.csproj|c:\\users\\fakhrib\\source\\repos\\fiorellacomponenttask\\fiorellacomponenttask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFEDEE56-D799-4F1B-AC8E-5BE9E53D8EA7}|FiorellaComponentTask\\FiorellaComponentTask.csproj|solutionrelative:fiorellacomponenttask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEDEE56-D799-4F1B-AC8E-5BE9E53D8EA7}|FiorellaComponentTask\\FiorellaComponentTask.csproj|c:\\users\\fakhrib\\source\\repos\\fiorellacomponenttask\\fiorellacomponenttask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFEDEE56-D799-4F1B-AC8E-5BE9E53D8EA7}|FiorellaComponentTask\\FiorellaComponentTask.csproj|solutionrelative:fiorellacomponenttask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\FiorellaComponentTask\\FiorellaComponentTask\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "FiorellaComponentTask\\Views\\Home\\Index.cshtml",
@@ -26,8 +42,21 @@
               "RelativeToolTip": "FiorellaComponentTask\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T06:36:48.733Z",
+              "WhenOpened": "2025-12-24T07:16:43.231Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\FiorellaComponentTask\\FiorellaComponentTask\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FiorellaComponentTask\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\FiorellaComponentTask\\FiorellaComponentTask\\appsettings.Development.json",
+              "RelativeToolTip": "FiorellaComponentTask\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T07:44:41.812Z",
               "EditorCaption": ""
             },
             {
@@ -37,6 +66,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\FiorellaComponentTask\\FiorellaComponentTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FiorellaComponentTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\FiorellaComponentTask\\FiorellaComponentTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FiorellaComponentTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T07:17:05.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\FiorellaComponentTask\\FiorellaComponentTask\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FiorellaComponentTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\FiorellaComponentTask\\FiorellaComponentTask\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FiorellaComponentTask\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T07:20:56.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\FiorellaComponentTask\\FiorellaComponentTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FiorellaComponentTask\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\FiorellaComponentTask\\FiorellaComponentTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FiorellaComponentTask\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T07:20:55.595Z"
             }
           ]
         }

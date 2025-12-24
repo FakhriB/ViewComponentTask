@@ -144,3 +144,4 @@ C:\Users\FakhriB\source\repos\FiorellaComponentTask\FiorellaComponentTask\obj\De
 C:\Users\FakhriB\source\repos\FiorellaComponentTask\FiorellaComponentTask\obj\Debug\net8.0\FiorellaComponentTask.pdb
 C:\Users\FakhriB\source\repos\FiorellaComponentTask\FiorellaComponentTask\obj\Debug\net8.0\FiorellaComponentTask.genruntimeconfig.cache
 C:\Users\FakhriB\source\repos\FiorellaComponentTask\FiorellaComponentTask\obj\Debug\net8.0\ref\FiorellaComponentTask.dll
+C:\Users\FakhriB\source\repos\FiorellaComponentTask\FiorellaComponentTask\obj\Debug\net8.0\FiorellaComponentTask.sourcelink.json
